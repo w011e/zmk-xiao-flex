@@ -9,12 +9,12 @@ Welcome to my firmware repository for the custom-built ZMK-Xiao-Flex Dactyl CC m
 - You can explore more of Marshall's creations on their [Etsy shop](https://www.etsy.com/de-en/shop/TheBigSkree).
 
 ## Features
-- Custom firmware designed to work seamlessly with the ZMK firmware framework.
+- Custom firmware to work with the ZMK firmware framework.
 - German layout with support for 'Umlaute' and other special characters.
-- Enjoy a personalized typing experience tailored to your needs.
+- Use GitHub acvtions to automatically create firmware to be flashed on the keyboard.
 
 ## Contributions
 - Contributions and improvements are welcome! Feel free to fork this repository and create pull requests.
-- Let me know if you need support. =
+- Let me know if you need support :)
 
-Happy typing with your custom ZMK-Xiao-Flex Dactyl CC keyboard!
+Happy typing 
