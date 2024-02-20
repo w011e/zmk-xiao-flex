@@ -14,7 +14,7 @@ Welcome to my firmware repository for the custom-built ZMK-Xiao-Flex Dactyl CC m
 - Use preset actions to automatically create firmware that can be flashed on the keyboard.
 
 ## Contributions
-- Contributions and improvements are welcome! Feel free to fork this repository and create pull requests.
+- Contributions and improvements are welcome! Feel free to fork and use it for your keyboard.
 - Let me know if you need support :)
 
 Happy typing 
