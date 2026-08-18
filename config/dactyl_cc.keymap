@@ -35,9 +35,9 @@ UC_MODMORPH(de_acute, &de_acute_lower, &kp GRAVE)
 &kp CAPSLOCK    &kp A           &kp S           &kp D               &kp F           &kp G           &kp H           &kp J           &kp K       &kp L       &de_oe      &de_ae
 &kp LSHFT       &kp Y           &kp X           &kp C               &kp V           &kp B           &kp N           &kp M           &kp COMMA   &kp DOT     &kp MINUS   &kp RSHIFT
                                 &kp SEMICOLON   &kp APOSTROPHE      &kp LEFT        &kp RIGHT       &kp UP          &kp DOWN        &kp LBKT    &kp RBKT
-                                                                    &kp ENTER       &kp SPACE       &mo 1           &kp LEFT_ALT
-                                                &kp BSPC            &kp DEL         &kp LEFT_GUI    &kp RIGHT_GUI   &kp ENTER       &kp SPACE
-                                                                                    &kp LCTRL       &kp RCTRL
+                                                                    &kp ENTER       &kp SPACE       &kp RIGHT_GUI   &kp LEFT_ALT
+                                                &kp BSPC            &kp DEL         &kp LEFT_GUI    &kp RCTRL       &kp ENTER       &kp SPACE
+                                                                                    &kp LCTRL       &mo 1
             >;
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
@@ -49,9 +49,9 @@ UC_MODMORPH(de_acute, &de_acute_lower, &kp GRAVE)
 &trans          &trans          &de_eszett      &de_degree          &trans          &trans          &trans          &trans          &trans      &trans      &trans      &bt BT_SEL 1
 &trans          &trans          &kp ESC         &kp CARET           &trans          &trans          &trans          &trans          &trans      &trans      &bt BT_CLR  &bt BT_SEL 2
                                 &trans          &de_acute           &kp HOME        &kp END         &kp PAGE_UP     &kp PAGE_DOWN   &trans      &trans
-                                                                    &trans          &trans          &trans          &kp C_PLAY_PAUSE
-                                                &trans              &trans          &trans          &kp C_VOL_UP    &kp C_MUTE         &trans
-                                                                                    &trans          &kp C_VOL_DN
+                                                                    &trans          &trans          &kp C_VOL_UP    &kp ESC
+                                                &trans              &trans          &trans          &kp C_VOL_DN    &kp C_MUTE      &kp C_PLAY_PAUSE
+                                                                                    &trans          &trans
             >;
         };
     };
